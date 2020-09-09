@@ -6,6 +6,7 @@ spring:
     port: 5672
     username: admin
     password: 1111
+    virtual-host: /
 server:
   port: 8091
 eureka:
